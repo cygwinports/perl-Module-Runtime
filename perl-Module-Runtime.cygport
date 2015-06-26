@@ -2,7 +2,7 @@ CPAN_AUTHOR=zefram
 inherit perl
 
 NAME="perl-Module-Runtime"
-VERSION=0.013
+VERSION=0.014
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl distribution Module-Runtime"
